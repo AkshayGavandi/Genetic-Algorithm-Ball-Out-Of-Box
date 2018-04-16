@@ -20,7 +20,7 @@ public class Population {
         balls = new ArrayList<>();
         
         for(int i=0;i<populationSize;i++){
-            addBall(250,250,50,Main.MAX);
+            addBall(Main.MAX/2,Main.MAX/2,50,Main.MAX);
         }
     }
     
@@ -33,11 +33,11 @@ public class Population {
     }
     
     public HashMap<String, Object> getOutOfTheBox(){
-        Ball out = new Ball(250,250,50,Main.MAX);
+        Ball out = new Ball(Main.MAX/2,Main.MAX/2,50,Main.MAX);
         boolean outOfTheBox = false;
         HashMap<String, Object> map = new HashMap<>();
         for(Ball b : balls){
-            if(b.getX()<0-b.getR() || b.getX()>500+b.getR() || b.getY()<0-b.getR() || b.getY()>500+b.getR()){
+            if(b.getX()<Main.MIN-b.getR() || b.getX()>Main.MAX+b.getR() || b.getY()<Main.MIN-b.getR() || b.getY()>Main.MAX+b.getR()){
                 out = b;
                 outOfTheBox = true;
             }

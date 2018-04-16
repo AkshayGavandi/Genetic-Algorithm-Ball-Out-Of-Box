@@ -15,10 +15,10 @@ import java.util.HashMap;
  * @author Akshay Gavandi
  */
 public class Fitness {
-    private int xmin=0;
-    private int xmax=500;
-    private int ymin=0;
-    private int ymax=500;
+    private int xmin=Main.MIN;
+    private int xmax=Main.MAX;
+    private int ymin=Main.MIN;
+    private int ymax=Main.MAX;
         
     public Population setFitness(Population population){
         //int[] fitness = new int[population.size()];
@@ -30,7 +30,7 @@ public class Fitness {
             int y2 = ymax - b.getY();
             
             int[] temp = {x1,y1,x2,y2};
-            int min=500;
+            int min=Main.MAX;
             for(int i=0; i<temp.length; i++){
                 if(min>temp[i]){
                     min = temp[i]; 

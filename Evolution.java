@@ -22,8 +22,8 @@ public class Evolution {
             b.setX(changeCoordinate(b.getX()));
             b.setY(changeCoordinate(b.getY()));
             b.setR(changeRadius(b.getR()));
-            System.out.print(" "+b.getX()+" "+b.getY()+" "+b.getR());
-            System.out.println("");
+            //System.out.print(" "+b.getX()+" "+b.getY()+" "+b.getR());
+            //System.out.println("");
         }
         try{
             population = checkReproduction(population);

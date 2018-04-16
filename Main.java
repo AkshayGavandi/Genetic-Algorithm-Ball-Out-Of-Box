@@ -28,7 +28,7 @@ public class Main {
         int pop = sc.nextInt();
         //System.out.println("Enter the evolution levels after which unfit population is to be terminated : ");
         //int unfitcountlimit = sc.nextInt();
-        int unfitcountlimit = 100;
+        int unfitcountlimit = 75;
         //System.out.println("Enter in percentage (0-100) the amount of population to be retained : ");
         //int percentTermination = sc.nextInt();
         int percentTermination = 70;
@@ -41,7 +41,7 @@ public class Main {
                 unfitcount++;
                 population = fit.setFitness(population);
                 b = fit.getFittest(population);
-                System.out.println("Fittest ball now is "+ b.getX()+" "+b.getY()+" "+b.getR());
+                System.out.println("Fittest ball now is "+ b.getX()+" "+b.getY()+" "+b.getR()+" "+b.getFitness());
                 population = evolution.evolve(population);
                 if(unfitcount == unfitcountlimit){
                     population = fit.getTopKFittest(population, percentTermination);
