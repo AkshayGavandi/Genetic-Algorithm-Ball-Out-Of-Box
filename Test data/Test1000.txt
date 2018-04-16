@@ -1,0 +1,1792 @@
+run:
+Enter the initial population : 
+1000
+Fittest ball now is 500 500 50 500
+--------------------------------1000
+Fittest ball now is 495 505 45 495
+--------------------------------1000
+Fittest ball now is 500 490 50 490
+--------------------------------1000
+Fittest ball now is 495 485 45 485
+--------------------------------1000
+Fittest ball now is 500 480 50 480
+--------------------------------1000
+Fittest ball now is 495 475 35 475
+--------------------------------1000
+Fittest ball now is 490 470 40 470
+--------------------------------1000
+Fittest ball now is 485 535 35 465
+--------------------------------1000
+Fittest ball now is 490 540 40 460
+--------------------------------1000
+Fittest ball now is 495 545 45 455
+--------------------------------1000
+Fittest ball now is 450 530 80 450
+Dead--------------------------------999
+Fittest ball now is 445 525 85 445
+Dead--------------------------------998
+Fittest ball now is 440 520 90 440
+Split--------------------------------999
+Fittest ball now is 445 465 55 445
+Dead--------------------------------998
+Fittest ball now is 440 520 100 440
+Split--------------------------------999
+Fittest ball now is 565 475 55 435
+Split--------------------------------1000
+Fittest ball now is 560 470 50 440
+Split--------------------------------1001
+Fittest ball now is 565 465 45 435
+Split--------------------------------1002
+Fittest ball now is 570 460 50 430
+Split--------------------------------1003
+Fittest ball now is 565 515 15 435
+Split--------------------------------1004
+Fittest ball now is 570 520 50 430
+Split--------------------------------1005
+Fittest ball now is 425 515 40 425
+Split--------------------------------1006
+Fittest ball now is 570 490 80 430
+Split--------------------------------1007
+Fittest ball now is 465 435 15 435
+Split--------------------------------1008
+Fittest ball now is 540 570 0 430
+Split--------------------------------1009
+Fittest ball now is 545 575 0 425
+Split--------------------------------1010
+Fittest ball now is 540 580 0 420
+Split--------------------------------1011
+Fittest ball now is 575 495 65 425
+Split--------------------------------1012
+Fittest ball now is 550 580 50 420
+Split--------------------------------1013
+Fittest ball now is 545 585 55 415
+Split--------------------------------1014
+Fittest ball now is 590 460 30 410
+Split--------------------------------1015
+Fittest ball now is 545 595 45 405
+Split--------------------------------1016
+Fittest ball now is 550 600 40 400
+Split--------------------------------1017
+Fittest ball now is 525 595 35 405
+Split--------------------------------1018
+Fittest ball now is 550 590 40 410
+Split--------------------------------1019
+Fittest ball now is 595 495 0 405
+Split--------------------------------1020
+Fittest ball now is 600 500 0 400
+Split--------------------------------1021
+Fittest ball now is 605 495 0 395
+Split--------------------------------1022
+Fittest ball now is 610 490 0 390
+Split--------------------------------1023
+Fittest ball now is 615 485 0 385
+Split--------------------------------1024
+Fittest ball now is 610 490 0 390
+Split--------------------------------1025
+Fittest ball now is 605 485 0 395
+Split--------------------------------1026
+Fittest ball now is 610 480 0 390
+Split--------------------------------1027
+Fittest ball now is 615 475 0 385
+Split--------------------------------1028
+Fittest ball now is 610 480 0 390
+Split--------------------------------1029
+Fittest ball now is 425 395 65 395
+Split--------------------------------1030
+Fittest ball now is 520 610 50 390
+Split--------------------------------1031
+Fittest ball now is 515 605 45 395
+Split--------------------------------1032
+Fittest ball now is 610 470 0 390
+Split--------------------------------1033
+Fittest ball now is 615 465 0 385
+Split--------------------------------1034
+Fittest ball now is 620 470 0 380
+Split--------------------------------1035
+Fittest ball now is 625 465 0 375
+Split--------------------------------1036
+Fittest ball now is 630 460 0 370
+Split--------------------------------1037
+Fittest ball now is 635 455 0 365
+Split--------------------------------1038
+Fittest ball now is 630 450 0 370
+Split--------------------------------1039
+Fittest ball now is 635 455 0 365
+Split--------------------------------1040
+Fittest ball now is 640 450 0 360
+Split--------------------------------1041
+Fittest ball now is 635 455 0 365
+Split--------------------------------1042
+Fittest ball now is 640 450 0 360
+Split--------------------------------1043
+Fittest ball now is 635 445 0 365
+Split--------------------------------1044
+Fittest ball now is 640 450 0 360
+Split--------------------------------1045
+Fittest ball now is 645 445 0 355
+Split--------------------------------1046
+Fittest ball now is 650 440 0 350
+Split--------------------------------1047
+Fittest ball now is 655 445 0 345
+Split--------------------------------1048
+Fittest ball now is 660 440 0 340
+Split--------------------------------1049
+Fittest ball now is 665 445 0 335
+Split--------------------------------1050
+Fittest ball now is 670 450 0 330
+Split--------------------------------1051
+Fittest ball now is 675 455 0 325
+Split--------------------------------1052
+Fittest ball now is 670 450 0 330
+Split--------------------------------1053
+Fittest ball now is 675 455 0 325
+Split--------------------------------1054
+Fittest ball now is 670 460 0 330
+Split--------------------------------1055
+Fittest ball now is 675 465 0 325
+Split--------------------------------1056
+Fittest ball now is 680 460 0 320
+Split--------------------------------1057
+Fittest ball now is 675 465 0 325
+Split--------------------------------1058
+Fittest ball now is 680 470 0 320
+Split--------------------------------741
+Fittest ball now is 675 475 0 325
+Split--------------------------------742
+Fittest ball now is 670 470 0 330
+Split--------------------------------743
+Fittest ball now is 665 475 0 335
+Split--------------------------------744
+Fittest ball now is 660 470 0 340
+Split--------------------------------745
+Fittest ball now is 665 465 0 335
+Split--------------------------------746
+Fittest ball now is 660 460 0 340
+Split--------------------------------747
+Fittest ball now is 665 465 0 335
+Split--------------------------------748
+Fittest ball now is 670 460 0 330
+Split--------------------------------749
+Fittest ball now is 425 325 75 325
+Split--------------------------------750
+Fittest ball now is 420 330 70 330
+Split--------------------------------751
+Fittest ball now is 415 325 75 325
+Split--------------------------------752
+Fittest ball now is 410 320 70 320
+Split--------------------------------753
+Fittest ball now is 405 315 75 315
+Split--------------------------------754
+Fittest ball now is 410 310 70 310
+Split--------------------------------755
+Fittest ball now is 405 305 65 305
+Split--------------------------------756
+Fittest ball now is 410 300 60 300
+Split--------------------------------757
+Fittest ball now is 405 295 55 295
+Split--------------------------------758
+Fittest ball now is 410 300 50 300
+Split--------------------------------759
+Fittest ball now is 415 295 45 295
+Split--------------------------------760
+Fittest ball now is 410 290 50 290
+Split--------------------------------761
+Fittest ball now is 415 295 45 295
+Split--------------------------------762
+Fittest ball now is 420 290 50 290
+Split--------------------------------763
+Fittest ball now is 415 285 55 285
+Split--------------------------------764
+Fittest ball now is 420 290 50 290
+Split--------------------------------765
+Fittest ball now is 425 285 55 285
+Split--------------------------------766
+Fittest ball now is 430 290 60 290
+Split--------------------------------767
+Fittest ball now is 425 295 65 295
+Split--------------------------------768
+Fittest ball now is 420 300 70 300
+Split--------------------------------769
+Fittest ball now is 425 305 75 305
+Split--------------------------------770
+Fittest ball now is 420 310 80 310
+Split--------------------------------771
+Fittest ball now is 425 315 85 315
+Split--------------------------------772
+Fittest ball now is 420 310 80 310
+Split--------------------------------773
+Fittest ball now is 425 315 85 315
+Split--------------------------------774
+Fittest ball now is 430 320 80 320
+Split--------------------------------775
+Fittest ball now is 425 315 75 315
+Split--------------------------------776
+Fittest ball now is 420 320 80 320
+Split--------------------------------777
+Fittest ball now is 415 325 75 325
+Split--------------------------------778
+Fittest ball now is 420 320 80 320
+Split--------------------------------779
+Fittest ball now is 415 315 75 315
+Split--------------------------------780
+Fittest ball now is 420 320 70 320
+Split--------------------------------781
+Fittest ball now is 415 315 65 315
+Split--------------------------------782
+Fittest ball now is 420 310 70 310
+Split--------------------------------783
+Fittest ball now is 415 305 65 305
+Split--------------------------------784
+Fittest ball now is 420 310 70 310
+Split--------------------------------785
+Fittest ball now is 425 305 75 305
+Split--------------------------------786
+Fittest ball now is 430 310 70 310
+Split--------------------------------787
+Fittest ball now is 305 585 0 305
+Split--------------------------------788
+Fittest ball now is 300 580 0 300
+Split--------------------------------789
+Fittest ball now is 305 575 0 305
+Split--------------------------------790
+Fittest ball now is 300 580 0 300
+Split--------------------------------791
+Fittest ball now is 305 575 0 305
+Split--------------------------------792
+Fittest ball now is 310 580 0 310
+Split--------------------------------793
+Fittest ball now is 305 575 0 305
+Split--------------------------------794
+Fittest ball now is 300 570 0 300
+Split--------------------------------795
+Fittest ball now is 295 565 0 295
+Split--------------------------------796
+Fittest ball now is 300 570 0 300
+Split--------------------------------797
+Fittest ball now is 435 305 95 305
+Split--------------------------------798
+Fittest ball now is 440 300 100 300
+Split--------------------------------799
+Fittest ball now is 445 305 95 305
+Split--------------------------------800
+Fittest ball now is 440 300 100 300
+Split--------------------------------801
+Fittest ball now is 435 305 95 305
+Split--------------------------------802
+Fittest ball now is 430 300 90 300
+Split--------------------------------803
+Fittest ball now is 435 295 85 295
+Split--------------------------------804
+Fittest ball now is 430 300 80 300
+Split--------------------------------805
+Fittest ball now is 435 295 75 295
+Split--------------------------------806
+Fittest ball now is 290 560 0 290
+Split--------------------------------807
+Fittest ball now is 285 565 0 285
+Split--------------------------------808
+Fittest ball now is 280 570 0 280
+Split--------------------------------809
+Fittest ball now is 275 565 0 275
+Split--------------------------------810
+Fittest ball now is 270 570 0 270
+Split--------------------------------811
+Fittest ball now is 275 565 0 275
+Split--------------------------------812
+Fittest ball now is 270 560 0 270
+Split--------------------------------813
+Fittest ball now is 265 565 0 265
+Split--------------------------------814
+Fittest ball now is 270 570 0 270
+Split--------------------------------815
+Fittest ball now is 465 275 65 275
+Split--------------------------------571
+Fittest ball now is 470 270 60 270
+Split--------------------------------572
+Fittest ball now is 465 275 65 275
+Split--------------------------------573
+Fittest ball now is 460 270 70 270
+Split--------------------------------574
+Fittest ball now is 465 275 65 275
+Split--------------------------------575
+Fittest ball now is 460 280 70 280
+Split--------------------------------576
+Fittest ball now is 455 275 20 275
+Split--------------------------------577
+Fittest ball now is 450 270 15 270
+Split--------------------------------578
+Fittest ball now is 465 275 65 275
+Split--------------------------------579
+Fittest ball now is 450 270 0 270
+Split--------------------------------580
+Fittest ball now is 445 275 0 275
+Split--------------------------------581
+Fittest ball now is 440 270 0 270
+Split--------------------------------582
+Fittest ball now is 435 275 0 275
+Split--------------------------------583
+Fittest ball now is 430 280 0 280
+Split--------------------------------584
+Fittest ball now is 455 285 75 285
+Split--------------------------------585
+Fittest ball now is 420 280 0 280
+Split--------------------------------586
+Fittest ball now is 445 715 0 285
+Split--------------------------------587
+Fittest ball now is 420 280 0 280
+Split--------------------------------588
+Fittest ball now is 415 275 0 275
+Split--------------------------------589
+Fittest ball now is 410 270 0 270
+Split--------------------------------590
+Fittest ball now is 405 265 0 265
+Split--------------------------------591
+Fittest ball now is 410 260 0 260
+Split--------------------------------592
+Fittest ball now is 415 255 0 255
+Split--------------------------------593
+Fittest ball now is 420 260 0 260
+Split--------------------------------594
+Fittest ball now is 415 255 0 255
+Split--------------------------------595
+Fittest ball now is 410 250 0 250
+Split--------------------------------596
+Fittest ball now is 415 255 0 255
+Split--------------------------------597
+Fittest ball now is 410 250 0 250
+Split--------------------------------598
+Fittest ball now is 415 245 0 245
+Split--------------------------------599
+Fittest ball now is 420 250 0 250
+Split--------------------------------600
+Fittest ball now is 415 255 0 255
+Split--------------------------------601
+Fittest ball now is 420 250 0 250
+Split--------------------------------602
+Fittest ball now is 415 255 0 255
+Split--------------------------------603
+Fittest ball now is 410 260 0 260
+Split--------------------------------604
+Fittest ball now is 415 255 0 255
+Split--------------------------------605
+Fittest ball now is 410 260 0 260
+Split--------------------------------606
+Fittest ball now is 405 265 0 265
+Split--------------------------------607
+Fittest ball now is 270 600 0 270
+Split--------------------------------608
+Fittest ball now is 275 595 0 275
+Split--------------------------------609
+Fittest ball now is 270 600 0 270
+Split--------------------------------610
+Fittest ball now is 275 605 0 275
+Split--------------------------------611
+Fittest ball now is 270 610 0 270
+Split--------------------------------612
+Fittest ball now is 275 615 0 275
+Split--------------------------------613
+Fittest ball now is 270 610 0 270
+Split--------------------------------614
+Fittest ball now is 265 615 0 265
+Split--------------------------------615
+Fittest ball now is 400 260 0 260
+Split--------------------------------616
+Fittest ball now is 395 255 0 255
+Split--------------------------------617
+Fittest ball now is 400 260 0 260
+Split--------------------------------618
+Fittest ball now is 265 615 0 265
+Split--------------------------------619
+Fittest ball now is 260 610 0 260
+Split--------------------------------620
+Fittest ball now is 255 615 0 255
+Split--------------------------------621
+Fittest ball now is 260 620 0 260
+Split--------------------------------622
+Fittest ball now is 255 625 0 255
+Split--------------------------------623
+Fittest ball now is 260 630 0 260
+Split--------------------------------624
+Fittest ball now is 265 635 0 265
+Split--------------------------------625
+Fittest ball now is 260 630 0 260
+Split--------------------------------626
+Fittest ball now is 265 635 0 265
+Split--------------------------------627
+Fittest ball now is 260 640 0 260
+Split--------------------------------628
+Fittest ball now is 255 645 0 255
+Split--------------------------------629
+Fittest ball now is 250 650 0 250
+Split--------------------------------630
+Fittest ball now is 245 645 0 245
+Split--------------------------------631
+Fittest ball now is 240 650 0 240
+Split--------------------------------632
+Fittest ball now is 245 645 0 245
+Split--------------------------------633
+Fittest ball now is 250 640 0 250
+Split--------------------------------634
+Fittest ball now is 385 245 0 245
+Split--------------------------------635
+Fittest ball now is 250 630 0 250
+Split--------------------------------636
+Fittest ball now is 255 635 0 255
+Split--------------------------------637
+Fittest ball now is 260 630 0 260
+Split--------------------------------638
+Fittest ball now is 255 635 0 255
+Split--------------------------------639
+Fittest ball now is 250 640 0 250
+Split--------------------------------640
+Fittest ball now is 245 635 0 245
+Split--------------------------------641
+Fittest ball now is 400 240 0 240
+Split--------------------------------642
+Fittest ball now is 405 235 0 235
+Split--------------------------------643
+Fittest ball now is 240 650 0 240
+Split--------------------------------644
+Fittest ball now is 235 655 0 235
+Split--------------------------------645
+Fittest ball now is 400 230 0 230
+Split--------------------------------452
+Fittest ball now is 405 225 0 225
+Split--------------------------------453
+Fittest ball now is 410 230 0 230
+Split--------------------------------454
+Fittest ball now is 405 235 0 235
+Split--------------------------------455
+Fittest ball now is 400 230 0 230
+Split--------------------------------456
+Fittest ball now is 395 235 0 235
+Split--------------------------------457
+Fittest ball now is 390 230 0 230
+Split--------------------------------458
+Fittest ball now is 385 225 0 225
+Split--------------------------------459
+Fittest ball now is 380 230 0 230
+Split--------------------------------460
+Fittest ball now is 385 235 0 235
+Split--------------------------------461
+Fittest ball now is 390 230 0 230
+Split--------------------------------462
+Fittest ball now is 385 225 0 225
+Split--------------------------------463
+Fittest ball now is 390 220 0 220
+Split--------------------------------464
+Fittest ball now is 395 225 0 225
+Split--------------------------------465
+Fittest ball now is 390 220 0 220
+Split--------------------------------466
+Fittest ball now is 385 225 0 225
+Split--------------------------------467
+Fittest ball now is 380 230 0 230
+Split--------------------------------468
+Fittest ball now is 385 225 0 225
+Split--------------------------------469
+Fittest ball now is 380 220 0 220
+Split--------------------------------470
+Fittest ball now is 375 225 0 225
+Split--------------------------------471
+Fittest ball now is 370 230 0 230
+Split--------------------------------472
+Fittest ball now is 375 235 0 235
+Split--------------------------------473
+Fittest ball now is 230 640 0 230
+Split--------------------------------474
+Fittest ball now is 235 635 0 235
+Split--------------------------------475
+Fittest ball now is 240 630 0 240
+Split--------------------------------476
+Fittest ball now is 235 625 0 235
+Split--------------------------------477
+Fittest ball now is 240 630 0 240
+Split--------------------------------478
+Fittest ball now is 245 635 0 245
+Split--------------------------------479
+Fittest ball now is 240 640 0 240
+Split--------------------------------480
+Fittest ball now is 355 245 0 245
+Split--------------------------------481
+Fittest ball now is 240 630 0 240
+Split--------------------------------482
+Fittest ball now is 235 635 0 235
+Split--------------------------------483
+Fittest ball now is 230 630 0 230
+Split--------------------------------484
+Fittest ball now is 225 635 0 225
+Split--------------------------------485
+Fittest ball now is 220 640 0 220
+Split--------------------------------486
+Fittest ball now is 225 635 0 225
+Split--------------------------------487
+Fittest ball now is 230 640 0 230
+Split--------------------------------488
+Fittest ball now is 225 645 0 225
+Split--------------------------------489
+Fittest ball now is 220 640 0 220
+Split--------------------------------490
+Fittest ball now is 225 635 0 225
+Split--------------------------------491
+Fittest ball now is 220 640 0 220
+Split--------------------------------492
+Fittest ball now is 225 645 0 225
+Split--------------------------------493
+Fittest ball now is 220 640 0 220
+Split--------------------------------494
+Fittest ball now is 225 645 0 225
+Split--------------------------------495
+Fittest ball now is 220 640 0 220
+Split--------------------------------496
+Fittest ball now is 225 635 0 225
+Split--------------------------------497
+Fittest ball now is 220 630 0 220
+Split--------------------------------498
+Fittest ball now is 225 635 0 225
+Split--------------------------------499
+Fittest ball now is 220 630 0 220
+Split--------------------------------500
+Fittest ball now is 215 625 0 215
+Split--------------------------------501
+Fittest ball now is 210 630 0 210
+Split--------------------------------502
+Fittest ball now is 205 635 0 205
+Split--------------------------------503
+Fittest ball now is 200 630 0 200
+Split--------------------------------504
+Fittest ball now is 195 635 0 195
+Split--------------------------------505
+Fittest ball now is 190 640 0 190
+Split--------------------------------506
+Fittest ball now is 185 635 0 185
+Split--------------------------------507
+Fittest ball now is 190 640 0 190
+Split--------------------------------508
+Fittest ball now is 195 645 0 195
+Split--------------------------------509
+Fittest ball now is 200 650 0 200
+Split--------------------------------510
+Fittest ball now is 195 645 0 195
+Split--------------------------------511
+Fittest ball now is 200 640 0 200
+Split--------------------------------512
+Fittest ball now is 205 645 0 205
+Split--------------------------------513
+Fittest ball now is 200 640 0 200
+Split--------------------------------514
+Fittest ball now is 205 635 0 205
+Split--------------------------------515
+Fittest ball now is 200 640 0 200
+Split--------------------------------516
+Fittest ball now is 205 635 0 205
+Split--------------------------------517
+Fittest ball now is 210 640 0 210
+Split--------------------------------518
+Fittest ball now is 205 645 0 205
+Split--------------------------------519
+Fittest ball now is 200 640 0 200
+Split--------------------------------520
+Fittest ball now is 205 635 0 205
+Split--------------------------------521
+Fittest ball now is 200 630 0 200
+Split--------------------------------522
+Fittest ball now is 195 625 0 195
+Split--------------------------------523
+Fittest ball now is 200 630 0 200
+Split--------------------------------524
+Fittest ball now is 205 625 0 205
+Split--------------------------------525
+Fittest ball now is 210 630 0 210
+Split--------------------------------526
+Fittest ball now is 205 635 0 205
+Split--------------------------------368
+Fittest ball now is 210 630 0 210
+Split--------------------------------369
+Fittest ball now is 215 635 0 215
+Split--------------------------------370
+Fittest ball now is 220 630 0 220
+Split--------------------------------371
+Fittest ball now is 215 635 0 215
+Split--------------------------------372
+Fittest ball now is 210 630 0 210
+Split--------------------------------373
+Fittest ball now is 205 635 0 205
+Split--------------------------------374
+Fittest ball now is 200 640 0 200
+Split--------------------------------375
+Fittest ball now is 205 635 0 205
+Dead--------------------------------374
+Fittest ball now is 230 510 0 230
+Split--------------------------------375
+Fittest ball now is 235 515 0 235
+Split--------------------------------376
+Fittest ball now is 230 510 0 230
+Split--------------------------------377
+Fittest ball now is 225 505 0 225
+Dead--------------------------------376
+Fittest ball now is 770 470 0 230
+Split--------------------------------377
+Fittest ball now is 775 475 0 225
+Split--------------------------------378
+Fittest ball now is 780 470 0 220
+Dead--------------------------------377
+Fittest ball now is 605 775 55 225
+Split--------------------------------378
+Fittest ball now is 600 770 50 230
+Dead--------------------------------377
+Fittest ball now is 605 775 55 225
+Dead--------------------------------376
+Fittest ball now is 570 220 0 220
+Dead--------------------------------375
+Fittest ball now is 565 225 0 225
+Dead--------------------------------374
+Fittest ball now is 610 770 50 230
+Split--------------------------------375
+Fittest ball now is 775 465 0 225
+Split--------------------------------376
+Fittest ball now is 780 460 0 220
+Dead--------------------------------375
+Fittest ball now is 575 215 0 215
+Split--------------------------------376
+Fittest ball now is 620 780 40 220
+Split--------------------------------377
+Fittest ball now is 785 455 0 215
+Dead--------------------------------376
+Fittest ball now is 610 770 30 230
+Split--------------------------------377
+Fittest ball now is 575 225 0 225
+Split--------------------------------378
+Fittest ball now is 580 220 0 220
+Split--------------------------------379
+Fittest ball now is 615 775 35 225
+Split--------------------------------380
+Fittest ball now is 610 780 40 220
+Split--------------------------------381
+Fittest ball now is 605 775 35 225
+Split--------------------------------382
+Fittest ball now is 610 780 30 220
+Split--------------------------------383
+Fittest ball now is 605 775 35 225
+Split--------------------------------384
+Fittest ball now is 600 780 40 220
+Split--------------------------------385
+Fittest ball now is 605 785 35 215
+Split--------------------------------386
+Fittest ball now is 600 790 30 210
+Split--------------------------------387
+Fittest ball now is 605 795 35 205
+Split--------------------------------388
+Fittest ball now is 610 800 40 200
+Split--------------------------------389
+Fittest ball now is 605 805 45 195
+Split--------------------------------390
+Fittest ball now is 600 810 50 190
+Split--------------------------------391
+Fittest ball now is 605 805 55 195
+Split--------------------------------392
+Fittest ball now is 610 800 50 200
+Split--------------------------------393
+Fittest ball now is 605 795 45 205
+Dead--------------------------------392
+Fittest ball now is 610 800 40 200
+Dead--------------------------------391
+Fittest ball now is 615 805 45 195
+Split--------------------------------392
+Fittest ball now is 620 810 50 190
+Dead--------------------------------391
+Fittest ball now is 615 805 55 195
+Dead--------------------------------390
+Fittest ball now is 620 810 50 190
+Split--------------------------------391
+Fittest ball now is 625 805 55 195
+Dead--------------------------------390
+Fittest ball now is 620 800 50 200
+Split--------------------------------391
+Fittest ball now is 615 805 45 195
+Split--------------------------------392
+Fittest ball now is 190 510 0 190
+Split--------------------------------393
+Fittest ball now is 625 805 45 195
+Split--------------------------------394
+Fittest ball now is 620 800 50 200
+Dead--------------------------------393
+Fittest ball now is 615 805 45 195
+Dead--------------------------------392
+Fittest ball now is 610 800 40 200
+Split--------------------------------393
+Fittest ball now is 605 805 45 195
+Dead--------------------------------392
+Fittest ball now is 610 800 40 200
+Dead--------------------------------391
+Fittest ball now is 605 805 35 195
+Split--------------------------------392
+Fittest ball now is 610 800 30 200
+Dead--------------------------------391
+Fittest ball now is 615 805 35 195
+Split--------------------------------392
+Fittest ball now is 620 810 40 190
+Split--------------------------------393
+Fittest ball now is 615 815 35 185
+Split--------------------------------394
+Fittest ball now is 620 810 30 190
+Dead--------------------------------393
+Fittest ball now is 565 185 70 185
+Dead--------------------------------392
+Fittest ball now is 560 180 75 180
+Split--------------------------------393
+Fittest ball now is 565 175 80 175
+Dead--------------------------------392
+Fittest ball now is 570 170 85 170
+Dead--------------------------------391
+Fittest ball now is 575 165 90 165
+Split--------------------------------392
+Fittest ball now is 580 170 85 170
+Dead--------------------------------391
+Fittest ball now is 575 165 90 165
+Split--------------------------------392
+Fittest ball now is 570 160 95 160
+Split--------------------------------393
+Fittest ball now is 575 155 90 155
+Split--------------------------------394
+Fittest ball now is 580 160 95 160
+Dead--------------------------------275
+Fittest ball now is 585 165 90 165
+Dead--------------------------------274
+Fittest ball now is 580 170 95 170
+Dead--------------------------------273
+Fittest ball now is 575 165 90 165
+Split--------------------------------274
+Fittest ball now is 570 170 95 170
+Dead--------------------------------273
+Fittest ball now is 565 165 100 165
+Dead--------------------------------272
+Fittest ball now is 560 170 95 170
+Split--------------------------------273
+Fittest ball now is 555 165 100 165
+Split--------------------------------274
+Fittest ball now is 560 170 50 170
+Split--------------------------------275
+Fittest ball now is 555 165 55 165
+Dead--------------------------------274
+Fittest ball now is 560 160 50 160
+Split--------------------------------275
+Fittest ball now is 555 165 55 165
+Split--------------------------------276
+Fittest ball now is 560 170 60 170
+Dead--------------------------------275
+Fittest ball now is 555 175 55 175
+Dead--------------------------------274
+Fittest ball now is 570 170 60 170
+Dead--------------------------------273
+Fittest ball now is 575 165 65 165
+Dead--------------------------------272
+Fittest ball now is 570 160 70 160
+Dead--------------------------------271
+Fittest ball now is 575 165 75 165
+Dead--------------------------------270
+Fittest ball now is 580 160 70 160
+Split--------------------------------271
+Fittest ball now is 575 165 65 165
+Split--------------------------------272
+Fittest ball now is 570 160 70 160
+Dead--------------------------------271
+Fittest ball now is 575 165 75 165
+Split--------------------------------272
+Fittest ball now is 580 160 80 160
+Dead--------------------------------271
+Fittest ball now is 585 165 85 165
+Dead--------------------------------270
+Fittest ball now is 580 160 90 160
+Split--------------------------------271
+Fittest ball now is 575 155 85 155
+Dead--------------------------------270
+Fittest ball now is 580 160 90 160
+Split--------------------------------271
+Fittest ball now is 575 155 85 155
+Split--------------------------------272
+Fittest ball now is 570 160 80 160
+Dead--------------------------------271
+Fittest ball now is 575 155 75 155
+Dead--------------------------------270
+Fittest ball now is 580 150 80 150
+Split--------------------------------271
+Fittest ball now is 585 145 75 145
+Dead--------------------------------270
+Fittest ball now is 590 140 80 140
+Dead--------------------------------269
+Fittest ball now is 595 145 75 145
+Split--------------------------------270
+Fittest ball now is 600 150 70 150
+Split--------------------------------271
+Fittest ball now is 605 155 75 155
+Split--------------------------------272
+Fittest ball now is 610 150 80 150
+Split--------------------------------273
+Fittest ball now is 615 155 75 155
+Split--------------------------------274
+Fittest ball now is 620 150 70 150
+Dead--------------------------------273
+Fittest ball now is 625 145 75 145
+Dead--------------------------------272
+Fittest ball now is 630 150 80 150
+Dead--------------------------------271
+Fittest ball now is 635 145 85 145
+Dead--------------------------------270
+Fittest ball now is 630 150 80 150
+Dead--------------------------------269
+Fittest ball now is 625 145 75 145
+Split--------------------------------270
+Fittest ball now is 630 150 70 150
+Dead--------------------------------269
+Fittest ball now is 625 145 65 145
+Dead--------------------------------268
+Fittest ball now is 630 140 70 140
+Split--------------------------------269
+Fittest ball now is 635 135 75 135
+Split--------------------------------270
+Fittest ball now is 640 130 70 130
+Dead--------------------------------269
+Fittest ball now is 645 125 65 125
+Split--------------------------------270
+Fittest ball now is 650 120 60 120
+Dead--------------------------------269
+Fittest ball now is 655 115 65 115
+Split--------------------------------270
+Fittest ball now is 660 110 60 110
+Dead--------------------------------269
+Fittest ball now is 655 105 55 105
+Dead--------------------------------268
+Fittest ball now is 650 100 50 100
+Dead--------------------------------267
+Fittest ball now is 645 105 55 105
+Split--------------------------------268
+Fittest ball now is 650 110 50 110
+Split--------------------------------269
+Fittest ball now is 645 105 55 105
+Split--------------------------------270
+Fittest ball now is 640 110 50 110
+Dead--------------------------------269
+Fittest ball now is 645 105 45 105
+Split--------------------------------270
+Fittest ball now is 650 100 40 100
+Dead--------------------------------269
+Fittest ball now is 645 105 45 105
+Dead--------------------------------268
+Fittest ball now is 640 100 50 100
+Dead--------------------------------267
+Fittest ball now is 635 95 55 95
+Split--------------------------------268
+Fittest ball now is 630 100 60 100
+Split--------------------------------269
+Fittest ball now is 635 95 65 95
+Dead--------------------------------268
+Fittest ball now is 630 100 70 100
+Split--------------------------------269
+Fittest ball now is 625 105 65 105
+Dead--------------------------------268
+Fittest ball now is 630 100 70 100
+Split--------------------------------269
+Fittest ball now is 625 95 75 95
+Dead--------------------------------268
+Fittest ball now is 620 90 70 90
+Dead--------------------------------267
+Fittest ball now is 615 95 75 95
+Dead--------------------------------266
+Fittest ball now is 610 100 80 100
+Split--------------------------------267
+Fittest ball now is 605 95 75 95
+Dead--------------------------------266
+Fittest ball now is 610 100 80 100
+Dead--------------------------------265
+Fittest ball now is 615 95 85 95
+Split--------------------------------186
+Fittest ball now is 610 100 80 100
+Dead--------------------------------185
+Fittest ball now is 605 95 85 95
+Dead--------------------------------184
+Fittest ball now is 600 100 90 100
+Dead--------------------------------183
+Fittest ball now is 605 105 85 105
+Split--------------------------------184
+Fittest ball now is 610 100 90 100
+Split--------------------------------185
+Fittest ball now is 605 105 95 105
+Dead--------------------------------184
+Fittest ball now is 600 110 90 110
+Dead--------------------------------183
+Fittest ball now is 605 105 85 105
+Dead--------------------------------182
+Fittest ball now is 610 110 90 110
+Dead--------------------------------181
+Fittest ball now is 615 105 95 105
+Dead--------------------------------180
+Fittest ball now is 620 110 100 110
+Split--------------------------------181
+Fittest ball now is 625 105 50 105
+Dead--------------------------------180
+Fittest ball now is 630 110 45 110
+Split--------------------------------181
+Fittest ball now is 635 105 50 105
+Dead--------------------------------180
+Fittest ball now is 640 110 55 110
+Dead--------------------------------179
+Fittest ball now is 645 115 60 115
+Split--------------------------------180
+Fittest ball now is 640 120 65 120
+Split--------------------------------181
+Fittest ball now is 625 115 70 115
+Dead--------------------------------180
+Fittest ball now is 640 120 65 120
+Dead--------------------------------179
+Fittest ball now is 635 125 60 125
+Dead--------------------------------178
+Fittest ball now is 620 120 65 120
+Dead--------------------------------177
+Fittest ball now is 615 115 60 115
+Dead--------------------------------176
+Fittest ball now is 630 120 75 120
+Split--------------------------------177
+Fittest ball now is 635 115 80 115
+Dead--------------------------------176
+Fittest ball now is 640 110 85 110
+Dead--------------------------------175
+Fittest ball now is 635 115 80 115
+Dead--------------------------------174
+Fittest ball now is 590 120 25 120
+Split--------------------------------175
+Fittest ball now is 585 125 20 125
+Dead--------------------------------174
+Fittest ball now is 580 120 15 120
+Dead--------------------------------173
+Fittest ball now is 585 115 20 115
+Dead--------------------------------172
+Fittest ball now is 580 120 25 120
+Dead--------------------------------171
+Fittest ball now is 575 115 20 115
+Split--------------------------------172
+Fittest ball now is 570 120 25 120
+Dead--------------------------------171
+Fittest ball now is 635 115 80 115
+Split--------------------------------172
+Fittest ball now is 640 120 75 120
+Dead--------------------------------171
+Fittest ball now is 635 125 80 125
+Split--------------------------------172
+Fittest ball now is 630 120 75 120
+Dead--------------------------------171
+Fittest ball now is 575 125 20 125
+Dead--------------------------------170
+Fittest ball now is 580 120 15 120
+Dead--------------------------------169
+Fittest ball now is 585 115 20 115
+Dead--------------------------------168
+Fittest ball now is 590 110 15 110
+Split--------------------------------169
+Fittest ball now is 595 115 10 115
+Split--------------------------------170
+Fittest ball now is 590 120 15 120
+Dead--------------------------------169
+Fittest ball now is 595 125 20 125
+Split--------------------------------170
+Fittest ball now is 590 120 25 120
+Split--------------------------------171
+Fittest ball now is 595 115 30 115
+Split--------------------------------172
+Fittest ball now is 590 110 35 110
+Dead--------------------------------171
+Fittest ball now is 585 105 40 105
+Dead--------------------------------170
+Fittest ball now is 590 110 45 110
+Dead--------------------------------169
+Fittest ball now is 595 105 40 105
+Dead--------------------------------168
+Fittest ball now is 600 100 45 100
+Split--------------------------------169
+Fittest ball now is 595 95 50 95
+Dead--------------------------------168
+Fittest ball now is 590 90 45 90
+Split--------------------------------169
+Fittest ball now is 585 95 40 95
+Dead--------------------------------168
+Fittest ball now is 580 90 45 90
+Dead--------------------------------167
+Fittest ball now is 585 85 50 85
+Split--------------------------------168
+Fittest ball now is 580 90 45 90
+Dead--------------------------------167
+Fittest ball now is 575 95 40 95
+Split--------------------------------168
+Fittest ball now is 570 100 45 100
+Dead--------------------------------167
+Fittest ball now is 565 95 40 95
+Split--------------------------------168
+Fittest ball now is 560 90 45 90
+Dead--------------------------------167
+Fittest ball now is 555 85 50 85
+Dead--------------------------------166
+Fittest ball now is 560 90 55 90
+Dead--------------------------------165
+Fittest ball now is 565 95 50 95
+Dead--------------------------------164
+Fittest ball now is 560 90 45 90
+Dead--------------------------------163
+Fittest ball now is 565 85 50 85
+Dead--------------------------------162
+Fittest ball now is 570 90 55 90
+Dead--------------------------------161
+Fittest ball now is 565 85 60 85
+Dead--------------------------------160
+Fittest ball now is 560 90 55 90
+Split--------------------------------161
+Fittest ball now is 555 85 50 85
+Dead--------------------------------160
+Fittest ball now is 550 90 55 90
+Dead--------------------------------159
+Fittest ball now is 545 95 50 95
+Dead--------------------------------158
+Fittest ball now is 540 100 45 100
+Dead--------------------------------157
+Fittest ball now is 545 105 50 105
+Dead--------------------------------156
+Fittest ball now is 540 110 45 110
+Dead--------------------------------108
+Fittest ball now is 535 105 40 105
+Dead--------------------------------107
+Fittest ball now is 540 100 45 100
+Dead--------------------------------106
+Fittest ball now is 545 105 50 105
+Dead--------------------------------105
+Fittest ball now is 540 110 55 110
+Dead--------------------------------104
+Fittest ball now is 535 115 60 115
+Dead--------------------------------103
+Fittest ball now is 530 120 65 120
+Split--------------------------------104
+Fittest ball now is 525 125 70 125
+Dead--------------------------------103
+Fittest ball now is 520 130 75 130
+Split--------------------------------104
+Fittest ball now is 515 125 70 125
+Dead--------------------------------103
+Fittest ball now is 520 120 75 120
+Dead--------------------------------102
+Fittest ball now is 515 115 70 115
+Dead--------------------------------101
+Fittest ball now is 510 110 75 110
+Split--------------------------------102
+Fittest ball now is 505 105 80 105
+Dead--------------------------------101
+Fittest ball now is 510 100 75 100
+Dead--------------------------------100
+Fittest ball now is 515 105 70 105
+Dead--------------------------------99
+Fittest ball now is 510 110 65 110
+Dead--------------------------------98
+Fittest ball now is 505 105 60 105
+Dead--------------------------------97
+Fittest ball now is 510 110 65 110
+Dead--------------------------------96
+Fittest ball now is 505 115 70 115
+Dead--------------------------------95
+Fittest ball now is 510 110 75 110
+Dead--------------------------------94
+Fittest ball now is 515 115 80 115
+Split--------------------------------95
+Fittest ball now is 510 110 75 110
+Split--------------------------------96
+Fittest ball now is 505 105 80 105
+Split--------------------------------97
+Fittest ball now is 500 100 75 100
+Split--------------------------------98
+Fittest ball now is 505 105 80 105
+Dead--------------------------------97
+Fittest ball now is 500 110 85 110
+Dead--------------------------------96
+Fittest ball now is 495 105 90 105
+Dead--------------------------------95
+Fittest ball now is 500 110 85 110
+Dead--------------------------------94
+Fittest ball now is 505 105 90 105
+Dead--------------------------------93
+Fittest ball now is 500 100 95 100
+Dead--------------------------------92
+Fittest ball now is 505 105 90 105
+Split--------------------------------93
+Fittest ball now is 510 100 85 100
+Dead--------------------------------92
+Fittest ball now is 515 95 90 95
+Dead--------------------------------91
+Fittest ball now is 510 100 85 100
+Split--------------------------------92
+Fittest ball now is 505 95 90 95
+Dead--------------------------------91
+Fittest ball now is 510 90 85 90
+Split--------------------------------92
+Fittest ball now is 515 85 90 85
+Split--------------------------------93
+Fittest ball now is 520 90 95 90
+Dead--------------------------------92
+Fittest ball now is 515 95 90 95
+Split--------------------------------93
+Fittest ball now is 510 100 85 100
+Dead--------------------------------92
+Fittest ball now is 515 95 80 95
+Dead--------------------------------91
+Fittest ball now is 510 90 75 90
+Dead--------------------------------90
+Fittest ball now is 505 95 70 95
+Dead--------------------------------89
+Fittest ball now is 510 100 65 100
+Split--------------------------------90
+Fittest ball now is 505 105 60 105
+Dead--------------------------------89
+Fittest ball now is 510 100 65 100
+Dead--------------------------------88
+Fittest ball now is 545 95 40 95
+Dead--------------------------------87
+Fittest ball now is 540 90 45 90
+Dead--------------------------------86
+Fittest ball now is 545 85 40 85
+Dead--------------------------------85
+Fittest ball now is 540 80 45 80
+Dead--------------------------------84
+Fittest ball now is 545 85 50 85
+Dead--------------------------------83
+Fittest ball now is 550 80 45 80
+Dead--------------------------------82
+Fittest ball now is 545 85 40 85
+Dead--------------------------------81
+Fittest ball now is 540 90 45 90
+Split--------------------------------82
+Fittest ball now is 545 85 50 85
+Split--------------------------------83
+Fittest ball now is 550 90 55 90
+Dead--------------------------------82
+Fittest ball now is 555 85 60 85
+Dead--------------------------------81
+Fittest ball now is 560 90 65 90
+Split--------------------------------82
+Fittest ball now is 555 95 60 95
+Dead--------------------------------81
+Fittest ball now is 560 90 65 90
+Dead--------------------------------80
+Fittest ball now is 565 85 70 85
+Dead--------------------------------79
+Fittest ball now is 570 80 65 80
+Dead--------------------------------78
+Fittest ball now is 565 75 60 75
+Dead--------------------------------77
+Fittest ball now is 560 70 55 70
+Dead--------------------------------76
+Fittest ball now is 555 65 50 65
+Split--------------------------------77
+Fittest ball now is 550 60 45 60
+Dead--------------------------------76
+Fittest ball now is 555 65 40 65
+Dead--------------------------------75
+Fittest ball now is 550 60 45 60
+Dead--------------------------------74
+Fittest ball now is 545 65 50 65
+Dead--------------------------------73
+Fittest ball now is 550 70 45 70
+Dead--------------------------------72
+Fittest ball now is 555 65 50 65
+Dead--------------------------------71
+Fittest ball now is 550 70 45 70
+Dead--------------------------------70
+Fittest ball now is 555 75 40 75
+Dead--------------------------------69
+Fittest ball now is 500 80 55 80
+Dead--------------------------------68
+Fittest ball now is 555 75 50 75
+Split--------------------------------48
+Fittest ball now is 560 80 45 80
+Dead--------------------------------47
+Fittest ball now is 565 85 50 85
+Dead--------------------------------46
+Fittest ball now is 570 90 45 90
+Dead--------------------------------45
+Fittest ball now is 575 85 50 85
+Dead--------------------------------44
+Fittest ball now is 570 90 45 90
+Dead--------------------------------43
+Fittest ball now is 505 85 40 85
+Split--------------------------------44
+Fittest ball now is 500 80 35 80
+Dead--------------------------------43
+Fittest ball now is 555 85 50 85
+Split--------------------------------44
+Fittest ball now is 550 80 45 80
+Split--------------------------------45
+Fittest ball now is 555 85 50 85
+Split--------------------------------46
+Fittest ball now is 500 80 25 80
+Dead--------------------------------45
+Fittest ball now is 495 75 30 75
+Dead--------------------------------44
+Fittest ball now is 560 80 55 80
+Dead--------------------------------43
+Fittest ball now is 565 85 60 85
+Dead--------------------------------42
+Fittest ball now is 490 80 25 80
+Dead--------------------------------41
+Fittest ball now is 495 75 20 75
+Split--------------------------------42
+Fittest ball now is 550 80 75 80
+Dead--------------------------------41
+Fittest ball now is 555 75 70 75
+Dead--------------------------------40
+Fittest ball now is 490 70 15 70
+Dead--------------------------------39
+Fittest ball now is 485 65 10 65
+--------------------------------39
+Fittest ball now is 480 60 15 60
+--------------------------------39
+Fittest ball now is 475 55 20 55
+--------------------------------39
+Fittest ball now is 470 50 25 50
+--------------------------------39
+Fittest ball now is 465 45 30 45
+--------------------------------39
+Fittest ball now is 470 50 35 50
+Split--------------------------------40
+Fittest ball now is 475 45 30 45
+--------------------------------40
+Fittest ball now is 480 40 25 40
+Split--------------------------------41
+Fittest ball now is 485 45 20 45
+Split--------------------------------42
+Fittest ball now is 490 40 15 40
+Split--------------------------------43
+Fittest ball now is 495 45 20 45
+Dead--------------------------------42
+Fittest ball now is 500 40 25 40
+--------------------------------42
+Fittest ball now is 505 45 30 45
+--------------------------------42
+Fittest ball now is 500 40 35 40
+--------------------------------42
+Fittest ball now is 495 35 30 35
+--------------------------------42
+Fittest ball now is 490 30 35 30
+--------------------------------42
+Fittest ball now is 485 25 30 25
+--------------------------------42
+Fittest ball now is 480 20 25 20
+--------------------------------42
+Fittest ball now is 475 25 20 25
+--------------------------------42
+Fittest ball now is 480 30 15 30
+--------------------------------42
+Fittest ball now is 475 35 20 35
+--------------------------------42
+Fittest ball now is 470 40 25 40
+Dead--------------------------------41
+Fittest ball now is 465 45 20 45
+--------------------------------41
+Fittest ball now is 460 50 15 50
+--------------------------------41
+Fittest ball now is 465 45 20 45
+--------------------------------41
+Fittest ball now is 470 50 25 50
+Dead--------------------------------40
+Fittest ball now is 465 45 20 45
+Dead--------------------------------39
+Fittest ball now is 470 50 25 50
+--------------------------------39
+Fittest ball now is 475 45 30 45
+--------------------------------39
+Fittest ball now is 480 40 35 40
+--------------------------------39
+Fittest ball now is 485 35 30 35
+--------------------------------39
+Fittest ball now is 480 40 35 40
+--------------------------------39
+Fittest ball now is 485 45 30 45
+--------------------------------39
+Fittest ball now is 490 50 25 50
+--------------------------------39
+Fittest ball now is 495 55 30 55
+Dead--------------------------------38
+Fittest ball now is 490 60 25 60
+Split--------------------------------39
+Fittest ball now is 485 55 20 55
+Split--------------------------------40
+Fittest ball now is 480 50 25 50
+Dead--------------------------------39
+Fittest ball now is 485 45 30 45
+Dead--------------------------------38
+Fittest ball now is 490 50 25 50
+--------------------------------38
+Fittest ball now is 495 45 20 45
+--------------------------------38
+Fittest ball now is 500 40 15 40
+--------------------------------38
+Fittest ball now is 505 45 20 45
+--------------------------------38
+Fittest ball now is 500 40 15 40
+--------------------------------38
+Fittest ball now is 505 45 20 45
+--------------------------------38
+Fittest ball now is 500 40 15 40
+Split--------------------------------39
+Fittest ball now is 495 35 10 35
+Split--------------------------------40
+Fittest ball now is 490 30 15 30
+Dead--------------------------------39
+Fittest ball now is 485 25 10 25
+Split--------------------------------40
+Fittest ball now is 480 20 15 20
+Dead--------------------------------39
+Fittest ball now is 485 15 20 15
+Dead--------------------------------38
+Fittest ball now is 480 20 15 20
+Split--------------------------------39
+Fittest ball now is 475 15 10 15
+--------------------------------39
+Fittest ball now is 470 20 15 20
+--------------------------------39
+Fittest ball now is 475 15 20 15
+--------------------------------39
+Fittest ball now is 480 20 15 20
+--------------------------------27
+Fittest ball now is 485 15 10 15
+Dead--------------------------------26
+Fittest ball now is 640 50 70 50
+--------------------------------26
+Fittest ball now is 635 45 75 45
+Dead--------------------------------25
+Fittest ball now is 640 50 80 50
+Dead--------------------------------24
+Fittest ball now is 645 45 85 45
+--------------------------------24
+Fittest ball now is 640 50 80 50
+--------------------------------24
+Fittest ball now is 635 55 85 55
+--------------------------------24
+Fittest ball now is 630 50 90 50
+--------------------------------24
+Fittest ball now is 635 55 85 55
+--------------------------------24
+Fittest ball now is 630 60 80 60
+--------------------------------24
+Fittest ball now is 625 55 75 55
+--------------------------------24
+Fittest ball now is 630 50 80 50
+Split--------------------------------25
+Fittest ball now is 625 55 75 55
+--------------------------------25
+Fittest ball now is 620 50 70 50
+--------------------------------25
+Fittest ball now is 615 45 75 45
+Split--------------------------------26
+Fittest ball now is 610 50 70 50
+Dead--------------------------------25
+Fittest ball now is 615 45 75 45
+--------------------------------25
+Fittest ball now is 610 50 80 50
+--------------------------------25
+Fittest ball now is 605 45 75 45
+--------------------------------25
+Fittest ball now is 610 50 80 50
+--------------------------------25
+Fittest ball now is 615 55 85 55
+--------------------------------25
+Fittest ball now is 620 60 90 60
+--------------------------------25
+Fittest ball now is 625 65 95 65
+--------------------------------25
+Fittest ball now is 630 70 90 70
+--------------------------------25
+Fittest ball now is 625 65 95 65
+--------------------------------25
+Fittest ball now is 630 60 100 60
+--------------------------------25
+Fittest ball now is 625 55 95 55
+--------------------------------25
+Fittest ball now is 630 60 90 60
+--------------------------------25
+Fittest ball now is 625 65 85 65
+--------------------------------25
+Fittest ball now is 620 60 80 60
+--------------------------------25
+Fittest ball now is 625 55 75 55
+Split--------------------------------26
+Fittest ball now is 630 50 80 50
+Split--------------------------------27
+Fittest ball now is 635 45 75 45
+--------------------------------27
+Fittest ball now is 640 40 70 40
+--------------------------------27
+Fittest ball now is 645 35 75 35
+--------------------------------27
+Fittest ball now is 650 30 70 30
+--------------------------------27
+Fittest ball now is 655 35 75 35
+--------------------------------27
+Fittest ball now is 650 30 70 30
+Split--------------------------------28
+Fittest ball now is 645 35 75 35
+--------------------------------28
+Fittest ball now is 650 40 70 40
+--------------------------------28
+Fittest ball now is 655 35 65 35
+--------------------------------28
+Fittest ball now is 660 30 60 30
+--------------------------------28
+Fittest ball now is 665 35 65 35
+--------------------------------28
+Fittest ball now is 660 40 70 40
+--------------------------------28
+Fittest ball now is 655 45 65 45
+--------------------------------28
+Fittest ball now is 650 40 60 40
+--------------------------------28
+Fittest ball now is 655 35 65 35
+Dead--------------------------------27
+Fittest ball now is 660 40 70 40
+--------------------------------27
+Fittest ball now is 655 35 65 35
+--------------------------------27
+Fittest ball now is 660 40 60 40
+Dead--------------------------------26
+Fittest ball now is 665 35 65 35
+--------------------------------26
+Fittest ball now is 660 40 70 40
+Split--------------------------------27
+Fittest ball now is 655 35 65 35
+--------------------------------27
+Fittest ball now is 650 30 60 30
+--------------------------------27
+Fittest ball now is 645 35 55 35
+--------------------------------27
+Fittest ball now is 640 30 60 30
+Split--------------------------------28
+Fittest ball now is 645 35 65 35
+Dead--------------------------------27
+Fittest ball now is 650 30 60 30
+--------------------------------27
+Fittest ball now is 655 25 55 25
+--------------------------------27
+Fittest ball now is 660 20 60 20
+--------------------------------27
+Fittest ball now is 665 25 65 25
+--------------------------------27
+Fittest ball now is 660 20 60 20
+--------------------------------27
+Fittest ball now is 665 15 55 15
+--------------------------------27
+Fittest ball now is 670 20 60 20
+--------------------------------27
+Fittest ball now is 665 25 65 25
+Dead--------------------------------26
+Fittest ball now is 670 30 60 30
+Dead--------------------------------25
+Fittest ball now is 675 25 65 25
+--------------------------------25
+Fittest ball now is 680 30 70 30
+--------------------------------25
+Fittest ball now is 685 35 75 35
+Split--------------------------------26
+Fittest ball now is 690 30 80 30
+--------------------------------26
+Fittest ball now is 685 35 85 35
+--------------------------------26
+Fittest ball now is 680 30 80 30
+Dead--------------------------------25
+Fittest ball now is 675 25 85 25
+--------------------------------25
+Fittest ball now is 680 20 80 20
+--------------------------------25
+Fittest ball now is 685 15 85 15
+--------------------------------17
+Fittest ball now is 680 20 90 20
+--------------------------------17
+Fittest ball now is 685 15 85 15
+--------------------------------17
+Fittest ball now is 680 20 80 20
+--------------------------------17
+Fittest ball now is 675 25 75 25
+--------------------------------17
+Fittest ball now is 670 20 70 20
+--------------------------------17
+Fittest ball now is 665 25 75 25
+--------------------------------17
+Fittest ball now is 660 30 70 30
+Dead--------------------------------16
+Fittest ball now is 665 25 75 25
+Dead--------------------------------15
+Fittest ball now is 660 30 80 30
+--------------------------------15
+Fittest ball now is 655 35 75 35
+--------------------------------15
+Fittest ball now is 660 40 80 40
+--------------------------------15
+Fittest ball now is 665 35 75 35
+--------------------------------15
+Fittest ball now is 670 30 80 30
+--------------------------------15
+Fittest ball now is 675 25 75 25
+--------------------------------15
+Fittest ball now is 670 20 70 20
+Dead--------------------------------14
+Fittest ball now is 675 15 65 15
+--------------------------------14
+Fittest ball now is 680 20 70 20
+--------------------------------14
+Fittest ball now is 675 25 75 25
+--------------------------------14
+Fittest ball now is 670 20 70 20
+--------------------------------14
+Fittest ball now is 675 15 75 15
+--------------------------------14
+Fittest ball now is 670 10 70 10
+--------------------------------14
+Fittest ball now is 675 15 75 15
+--------------------------------14
+Fittest ball now is 670 20 80 20
+--------------------------------14
+Fittest ball now is 665 15 85 15
+--------------------------------14
+Fittest ball now is 660 20 90 20
+Split--------------------------------15
+Fittest ball now is 655 15 85 15
+--------------------------------15
+Fittest ball now is 660 10 90 10
+Dead--------------------------------14
+Fittest ball now is 655 5 95 5
+Dead--------------------------------13
+Fittest ball now is 650 0 90 0
+--------------------------------13
+Fittest ball now is 645 -5 95 -5
+--------------------------------13
+Fittest ball now is 640 -10 100 -10
+Split--------------------------------14
+Fittest ball now is 635 -5 50 -5
+--------------------------------14
+Fittest ball now is 640 -10 45 -10
+--------------------------------14
+Fittest ball now is 635 -15 50 -15
+--------------------------------14
+Fittest ball now is 630 -10 45 -10
+--------------------------------14
+Fittest ball now is 635 -5 50 -5
+--------------------------------14
+Fittest ball now is 630 0 45 0
+--------------------------------14
+Fittest ball now is 635 -5 50 -5
+--------------------------------14
+Fittest ball now is 640 0 45 0
+--------------------------------14
+Fittest ball now is 635 -5 50 -5
+Split--------------------------------15
+Fittest ball now is 630 0 55 0
+Split--------------------------------16
+Fittest ball now is 635 5 50 5
+Dead--------------------------------15
+Fittest ball now is 630 0 55 0
+--------------------------------15
+Fittest ball now is 625 -5 60 -5
+--------------------------------15
+Fittest ball now is 620 -10 65 -10
+--------------------------------15
+Fittest ball now is 625 -15 60 -15
+--------------------------------15
+Fittest ball now is 620 -10 55 -10
+--------------------------------15
+Fittest ball now is 625 -15 60 -15
+--------------------------------15
+Fittest ball now is 620 -10 55 -10
+--------------------------------15
+Fittest ball now is 615 -5 60 -5
+--------------------------------15
+Fittest ball now is 610 -10 65 -10
+--------------------------------15
+Fittest ball now is 615 -5 70 -5
+Dead--------------------------------14
+Fittest ball now is 620 0 75 0
+--------------------------------14
+Fittest ball now is 625 5 80 5
+--------------------------------14
+Fittest ball now is 630 10 85 10
+--------------------------------14
+Fittest ball now is 625 5 80 5
+Dead--------------------------------13
+Fittest ball now is 630 10 75 10
+Split--------------------------------14
+Fittest ball now is 635 5 70 5
+--------------------------------14
+Fittest ball now is 630 0 75 0
+Dead--------------------------------13
+Fittest ball now is 635 -5 80 -5
+--------------------------------13
+Fittest ball now is 630 -10 85 -10
+--------------------------------13
+Fittest ball now is 635 -15 90 -15
+--------------------------------13
+Fittest ball now is 630 -20 95 -20
+--------------------------------13
+Fittest ball now is 625 -25 90 -25
+--------------------------------13
+Fittest ball now is 630 -20 85 -20
+--------------------------------13
+Fittest ball now is 635 -25 90 -25
+--------------------------------13
+Fittest ball now is 640 -30 95 -30
+--------------------------------13
+Fittest ball now is 635 -25 100 -25
+--------------------------------13
+Fittest ball now is 630 -30 95 -30
+--------------------------------13
+Fittest ball now is 625 -25 100 -25
+Split--------------------------------14
+Fittest ball now is 630 -20 50 -20
+Dead--------------------------------13
+Fittest ball now is 625 -25 55 -25
+Dead--------------------------------12
+Fittest ball now is 630 -20 60 -20
+--------------------------------12
+Fittest ball now is 635 -15 55 -15
+--------------------------------12
+Fittest ball now is 630 -20 50 -20
+--------------------------------8
+Fittest ball now is 645 -25 65 -25
+--------------------------------8
+Fittest ball now is 650 -30 60 -30
+--------------------------------8
+Fittest ball now is 645 -35 65 -35
+--------------------------------8
+Fittest ball now is 640 -30 60 -30
+--------------------------------8
+Fittest ball now is 635 -25 65 -25
+--------------------------------8
+Fittest ball now is 650 -20 70 -20
+--------------------------------8
+Fittest ball now is 625 -25 75 -25
+--------------------------------8
+Fittest ball now is 620 -30 80 -30
+--------------------------------8
+Fittest ball now is 635 -25 65 -25
+--------------------------------8
+Fittest ball now is 640 -20 70 -20
+--------------------------------8
+Fittest ball now is 645 -25 65 -25
+--------------------------------8
+Fittest ball now is 640 -30 70 -30
+--------------------------------8
+Fittest ball now is 635 -25 65 -25
+--------------------------------8
+Fittest ball now is 610 -30 100 -30
+--------------------------------8
+Fittest ball now is 615 -25 95 -25
+--------------------------------8
+Fittest ball now is 610 -30 90 -30
+--------------------------------8
+Fittest ball now is 615 -25 85 -25
+--------------------------------8
+Fittest ball now is 620 -30 80 -30
+Split--------------------------------9
+Fittest ball now is 625 -25 75 -25
+--------------------------------9
+Fittest ball now is 630 -20 80 -20
+--------------------------------9
+Fittest ball now is 635 -25 75 -25
+--------------------------------9
+Fittest ball now is 630 -30 70 -30
+--------------------------------9
+Fittest ball now is 635 -35 75 -35
+--------------------------------9
+Fittest ball now is 640 -30 80 -30
+--------------------------------9
+Fittest ball now is 645 -35 75 -35
+--------------------------------9
+Fittest ball now is 640 -30 80 -30
+--------------------------------9
+Fittest ball now is 635 -25 75 -25
+--------------------------------9
+Fittest ball now is 640 -30 80 -30
+--------------------------------9
+Fittest ball now is 645 -25 85 -25
+--------------------------------9
+Fittest ball now is 640 -30 80 -30
+--------------------------------9
+Fittest ball now is 635 -35 85 -35
+--------------------------------9
+Fittest ball now is 640 -30 80 -30
+--------------------------------9
+Fittest ball now is 635 -35 85 -35
+--------------------------------9
+Fittest ball now is 630 -40 90 -40
+--------------------------------9
+Fittest ball now is 635 -45 85 -45
+--------------------------------9
+Fittest ball now is 640 -50 90 -50
+--------------------------------9
+Fittest ball now is 645 -45 85 -45
+--------------------------------9
+Fittest ball now is 650 -50 80 -50
+--------------------------------9
+Fittest ball now is 655 -45 85 -45
+--------------------------------9
+Fittest ball now is 650 -50 90 -50
+--------------------------------9
+Fittest ball now is 655 -55 85 -55
+--------------------------------9
+Fittest ball now is 650 -50 80 -50
+--------------------------------9
+Fittest ball now is 645 -45 75 -45
+--------------------------------9
+Fittest ball now is 640 -40 70 -40
+--------------------------------9
+Fittest ball now is 635 -45 65 -45
+--------------------------------9
+Fittest ball now is 630 -50 70 -50
+--------------------------------9
+Fittest ball now is 635 -55 65 -55
+--------------------------------9
+Fittest ball now is 640 -50 60 -50
+--------------------------------9
+Fittest ball now is 635 -45 55 -45
+--------------------------------9
+Fittest ball now is 640 -40 50 -40
+--------------------------------9
+Fittest ball now is 635 -35 55 -35
+--------------------------------9
+Fittest ball now is 640 -40 50 -40
+--------------------------------9
+Fittest ball now is 645 -45 55 -45
+--------------------------------9
+Fittest ball now is 650 -50 50 -50
+--------------------------------9
+Fittest ball now is 645 -45 55 -45
+--------------------------------9
+Fittest ball now is 650 -40 60 -40
+--------------------------------9
+Fittest ball now is 645 -35 65 -35
+--------------------------------9
+Fittest ball now is 640 -40 70 -40
+--------------------------------9
+Fittest ball now is 645 -45 65 -45
+--------------------------------9
+Fittest ball now is 650 -50 60 -50
+--------------------------------9
+Fittest ball now is 655 -55 65 -55
+--------------------------------9
+Fittest ball now is 660 -50 60 -50
+--------------------------------9
+Fittest ball now is 665 -45 55 -45
+--------------------------------9
+Fittest ball now is 660 -40 50 -40
+--------------------------------9
+Fittest ball now is 655 -35 45 -35
+--------------------------------9
+Fittest ball now is 650 -40 40 -40
+--------------------------------9
+Fittest ball now is 645 -35 45 -35
+--------------------------------9
+Fittest ball now is 650 -40 40 -40
+--------------------------------9
+I am out of the box!
+655 -45 35
+BUILD SUCCESSFUL (total time: 2 seconds)
