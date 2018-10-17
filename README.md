@@ -1,4 +1,4 @@
-# INFO6205-515
+Genetic Algorithm Ball Out of Box
 Akshay Gavandi and Vignesh Raghuraman
 
 Problem Statement and Approach
