@@ -1,7 +1,7 @@
-#Genetic Algorithm Ball Out of Box
+# Genetic Algorithm Ball Out of Box
 Akshay Gavandi and Vignesh Raghuraman
 
-Problem Statement and Approach
+## Problem Statement and Approach
 
 To develop the genetic algorithm for solving the ball out of a box problem. The main objective is to come out of the box. To acheive this, the ball can move around, alter its size and reproduce so that if not the original population, atleast its generations might come out of the box. The balls might get extinct depending on their size or if they show no traits of improvement to move towards the edge of the box.
 
